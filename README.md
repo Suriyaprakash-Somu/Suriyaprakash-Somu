@@ -48,15 +48,15 @@ Full-stack developer from **Erode, Tamil Nadu**, building production-ready **Rea
 | Project | Description | Stack | Links |
 |---------|-------------|-------|-------|
 | **Multi-Tenant Blog Platform** | Enterprise blog & CMS with multi-tenancy, RBAC, analytics, SEO publishing | Next.js, Fastify, PostgreSQL, Drizzle ORM | [Live](https://indiancontext.com) |
-| **My Clinic** | Clinic management — appointments, consultations, billing, 15 departments | React, Cloudflare Workers, D1, R2 | [Demo](https://clinic-worker.suriyaprakash.workers.dev) |
-| **PackCraft India** | Packaging manufacturer website with product catalog & production process | React, Cloudflare Workers | [Live](https://carton.suriyaprakash.workers.dev) |
+| **My Clinic** | Clinic management — appointments, consultations, billing, 15 departments | React, Cloudflare Workers, D1, R2 | [Demo](https://clinic.suriyaprakash.in) |
+| **PackCraft India** | Packaging manufacturer website with product catalog & production process | React, Cloudflare Workers | [Live](https://carton.suriyaprakash.in) |
 | **Veterinarian Portfolio** | Clean portfolio presenting veterinary services & credibility | React, Vercel | [Demo](https://vet-kappa.vercel.app/) |
 
 ---
 
 ### 📝 Latest Blog Posts
 
-> [**What Happens When You Press Enter in a Browser?**](https://suriyaprakash.in/blog/engineering/what-happens-when-you-press-enter) — *Jul 9, 2026*
+> [**What Happens When You Press Enter in a Browser?**](https://suriyaprakash.in/blog/engineering/what-happens-when-you-press-enter) — *Jul 5, 2026*
 >
 > A complete step-by-step explanation — URL parsing, DNS lookup, TCP, TLS, HTTP, server processing, SSR, hydration, rendering, caching, and debugging.
 
